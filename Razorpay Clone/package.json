@@ -1,0 +1,27 @@
+{
+  "name": "razorpay_clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SejalKhanzode/Razorpay_clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SejalKhanzode/Razorpay_clone/issues"
+  },
+  "homepage": "https://github.com/SejalKhanzode/Razorpay_clone#readme",
+  "dependencies": {
+    "vite": "^4.1.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7"
+  }
+}
